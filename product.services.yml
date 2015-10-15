@@ -1,0 +1,3 @@
+services:
+  product.postal_validation:
+    class: Drupal\product\Service\PostalCodeValidation
